@@ -1,16 +1,13 @@
-## Hi there 👋
+# Filipe
 
-<!--
-**filipebnd/filipebnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Identity Security | Defensive Security`**
 
-Here are some ideas to get you started:
+Computer Science student currently working as an Identity Security Intern. Here you will find my CTF write-ups, labs and security projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stats
+
+<p align="left">
+  <img alt="Stats" src="https://github-readme-stats-fast.vercel.app/api?username=filipebnd&show_icons=true&theme=github_dark"/>
+</p>
